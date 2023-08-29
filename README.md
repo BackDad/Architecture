@@ -1,5 +1,3 @@
 # Architecture
-### Задание 1. 
-На основе Диаграмы классов ModelElements, разработать классы: Model Store, PoligonalModel (Texture, Poligon), Flash, 
-Camera, Scene
-![HW.JPG](HW.JPG)
+### Задание 1. Закончить разработку паттерна Фабричный метод
+### Задание 2. Познакомиться с другими типами паттернов (задание по желанию)
